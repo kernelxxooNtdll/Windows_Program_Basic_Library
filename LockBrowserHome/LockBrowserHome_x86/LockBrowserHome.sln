@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LockBrowserHome", "LockBrowserHome\LockBrowserHome.vcproj", "{84D4A4D1-A56D-4BC7-91D6-CFF5C15F10AC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestApp", "TestApp\TestApp.vcproj", "{3EB71E2D-90FD-4E4E-B5B7-60E55C03A870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84D4A4D1-A56D-4BC7-91D6-CFF5C15F10AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{84D4A4D1-A56D-4BC7-91D6-CFF5C15F10AC}.Debug|Win32.Build.0 = Debug|Win32
+		{84D4A4D1-A56D-4BC7-91D6-CFF5C15F10AC}.Release|Win32.ActiveCfg = Release|Win32
+		{84D4A4D1-A56D-4BC7-91D6-CFF5C15F10AC}.Release|Win32.Build.0 = Release|Win32
+		{3EB71E2D-90FD-4E4E-B5B7-60E55C03A870}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3EB71E2D-90FD-4E4E-B5B7-60E55C03A870}.Debug|Win32.Build.0 = Debug|Win32
+		{3EB71E2D-90FD-4E4E-B5B7-60E55C03A870}.Release|Win32.ActiveCfg = Release|Win32
+		{3EB71E2D-90FD-4E4E-B5B7-60E55C03A870}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

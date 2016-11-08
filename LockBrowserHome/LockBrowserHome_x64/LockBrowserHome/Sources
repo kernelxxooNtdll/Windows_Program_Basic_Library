@@ -1,0 +1,11 @@
+TARGETNAME=LockBrowserHome
+TARGETTYPE=DRIVER
+TARGETPATH=..\bin
+
+
+SOURCES= main.c \
+		 ToolFunction.c \
+		 Kill360.c \
+		 CheckRegistry.c \
+		 LockCommandLine.c
+		
